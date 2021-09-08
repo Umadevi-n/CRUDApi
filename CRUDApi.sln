@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDApi", "CRUDApi\CRUDApi.csproj", "{7104CF0B-DDB5-4DD1-B2F4-6E56145A8F3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationproject", "WebApplicationproject\WebApplicationproject.csproj", "{24FE0037-2570-4911-A5BC-C61A4E481BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7104CF0B-DDB5-4DD1-B2F4-6E56145A8F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7104CF0B-DDB5-4DD1-B2F4-6E56145A8F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7104CF0B-DDB5-4DD1-B2F4-6E56145A8F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7104CF0B-DDB5-4DD1-B2F4-6E56145A8F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24FE0037-2570-4911-A5BC-C61A4E481BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FE0037-2570-4911-A5BC-C61A4E481BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FE0037-2570-4911-A5BC-C61A4E481BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FE0037-2570-4911-A5BC-C61A4E481BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AD98920-F28A-431A-B009-5A4A9D5D20BD}
+	EndGlobalSection
+EndGlobal
